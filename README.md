@@ -2,6 +2,8 @@
 
 ## Automatic detection algorithm of active eddies in the ocean 
 
+***Definition**: An "active eddy" is defined as a coherent sea-level anomaly pattern with clockwise/counter-clockwise rotation and a significant environmental anomaly in SST colocalized within such a pattern.*
+
 The eddy detection algorithm used in this work to study the ocean mesoscale field maps relies on the approach proposed by ([Cipollone et al. 2017](https://doi.org/10.1007/s10236-017-1089-5)) for determining the three-dimensional mesoscale field in global ocean reanalysis, and further developed by ([Bonaduce et al. 2021](https://doi.org/10.3389/feart.2021.724879); [2025](https://doi.org/10.3390/rs17040684)) to investigate eddy contributions to ocean dynamics and thermodynamics at the regional scale. In the current study, the method was modified to consider mesoscale eddies at the ocean surface emerging from satellite altimetry maps.  The method consists of a hybrid detection based on both geometrical and dynamical constraints to identify the ocean surface signatures of the same eddy over different variables ([Cipollone et al. 2017](https://doi.org/10.1007/s10236-017-1089-5)). The first component is a geometric identification of local depression/elevation of sea surface height that must be dominated by rotation or by streamlines with circular/spiral patterns ([Xu et al. 2011](https://doi.org/10.1007/s10236-011-0377-8); [Faghmous et al. 2015](https://doi.org/10.1038/sdata.2015.28); [Chelton et al. 2007](https://doi.org/10.1029/2007GL030812)). 
 
 <img width="802" height="199" alt="Cipollone_2017" src="https://github.com/user-attachments/assets/d8f87da4-08e1-4b31-89b0-aba2604f4a8b" />
