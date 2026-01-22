@@ -21,4 +21,4 @@ The inner (eddy) annulus closest to the eddy perimeter is filled first, each poi
 
 <img width="1040" height="704" alt="SST_ANOMALY_in_NADIR_COMPARE_UNET_NOV" src="https://github.com/user-attachments/assets/21e9d938-edb3-4834-af2d-2e95c672fd98" />
 
-**Figure 3:** SST anomalies (degC) induced by eddies detected from [SWOT experimental altimetry maps](https://www.aviso.altimetry.fr/en/data/products/sea-surface-height-products/global/experimental-multimission-gridded-l4-sea-level-heights-and-velocities-with-swot.html). The panels show the distribution SST anomalies induced by eddy lifetime >7 days.
+**Figure 3:** SST anomalies (degC) induced by eddies detected from remote-sensing. The panels show the distribution SST anomalies induced by eddy lifetime >7 days.
