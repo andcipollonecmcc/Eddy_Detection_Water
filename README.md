@@ -1,5 +1,9 @@
 # Eddy_Detection_Water
 
+<img width="300" height="300" alt="CMCC_LOGO" src="https://github.com/user-attachments/assets/43fca450-78ab-41b0-b45a-5c2403109341" />
+<img width="300" height="300" alt="CMCC_LOGO" src="https://github.com/user-attachments/assets/6c620b4f-ae2d-4a1f-9837-0274162bcb5c" />
+
+
 ## Automatic detection algorithm of active eddies in the ocean 
 
 ***Definition**: An "active eddy" is defined as a coherent sea-level anomaly pattern with clockwise/counter-clockwise rotation and a significant environmental anomaly in SST colocalized within such a pattern.*
